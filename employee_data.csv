@@ -1,0 +1,6 @@
+Employee_ID,Name,Email,Department,Salary,Hire_Date
+E001,john doe,JOHN@COMPANY.COM,Engineering,75000.0,2020-01-15
+E002,JANE SMITH,jane@company.com,Marketing,65000.0,2019-06-20
+E003, bob johnson ,bob@company.com,Sales,,2021-03-10
+E004,alice brown,alice@company.com,,60000.0,2018-11-05
+E005,mike davis,mike@company.com,Engineering,80000.0,2022-09-01
