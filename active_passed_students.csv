@@ -6,8 +6,8 @@ Maria,Kedibone,23,FEMALE,South Africa,Sognsvann,65,High School,122,91.0,80,85.5
 Hannah,Hansen,25,FEMALE,Norge,BI Residence,66,High School,130,88.0,59,73.5
 Ole,Johansen,27,MALE,Norway,BI-Residence,90,Bachelors,156,80.0,91,85.5
 Lars,Olsen,29,MALE,norway,BIResidence,89,Barrrchelors,160,85.0,60,72.5
-Bjørn,Larsen,31,MALE,Norway,BI Residence,88,Bachelors,156,80.0,89,84.5
-Sofie,Jensen,33,FEMALE,Denmark,BI_Residence,85,Bachelors,160,83.0,90,86.5
+Bjï¿½rn,Larsen,31,MALE,Norway,BI Residence,88,Bachelors,156,80.0,89,84.5
+Sofie,Jensen,33,FEMALE,Denmark,BI_Residence ,85,Bachelors,160,83.0,90,86.5
 Emma,de Vries,34,FEMALE,Netherlands,BI Residence,65,Bachelors,156,79.0,58,68.5
 Solveig,Eliassen,36,FEMALE,Norway,Private,70,diploma,156,80.0,55,67.5
 Odd,Knudsen,38,MALE,Norway,Private,91,DIPLOMA,156,85.0,99,92.0
@@ -19,7 +19,7 @@ Jorunn,Eliassen,47,FEMALE,Norway,Private,86,Bachelors,156,80.0,78,79.0
 Sebastian,Kristiansen,48,MALE,Norway,Private,75,Bachelors,148,76.0,73,74.5
 Camilla,Mikkelsen,50,FEMALE,Norway,Private,95,Masters,160,84.0,90,87.0
 Kristine,Berg,26,FEMALE,Norway,BI Residence,55,High School,140,61.0,56,58.5
-Carmen,Rodríguez,28,FEMALE,Spain,BI Residence,78,Bachelors,156,80.0,55,67.5
+Carmen,Rodrï¿½guez,28,FEMALE,Spain,BI Residence,78,Bachelors,156,80.0,55,67.5
 Odd,Ahmed,30,MALE,Norway,BI Residence,82,Bachelors,156,82.0,65,73.5
 Gunnar,Brekke,32,MALE,Norway,BI Residence,81,Bachelors,158,85.0,83,84.0
 Gerd,Bakken,35,FEMALE,Norway,BI Residence,92,Masters,160,87.0,88,87.5
@@ -28,12 +28,12 @@ Kato,Muwanguzi,39,MALE,Uganda,Private,80,Bachelors,156,81.0,69,75.0
 Nansubuga,Nakalema,41,FEMALE,Uganda,Private,86,Bachelors,154,81.0,91,86.0
 Joakim,Edvardsen,44,MALE,Norway,Private,78,Diploma,152,80.0,79,79.5
 Don,Pettersen,46,MALE,Norway,Private,76,Diploma,156,85.0,45,65.0
-Line,Næss,25,FEMALE,Norway,BI Residence,98,High School,160,90.0,90,90.0
+Line,Nï¿½ss,25,FEMALE,Norway,BI Residence,98,High School,160,90.0,90,90.0
 Thor,Sandvik,27,MALE,Norway,BI Residence,85,Bachelors,158,84.0,90,87.0
 Petter,Ellingsen,29,MALE,Norway,BI Residence,75,Diploma,156,81.0,74,77.5
 Sindre,Hansen,31,MALE,Norway,BI Residence,95,Bachelors,158,87.0,99,93.0
 Simen,Myhre,33,FEMALE,Norway,BI Residence,50,Diploma,144,69.0,33,51.0
-Bjørg,Fredriksen,35,MALE,Norway,BI Residence,68,Diploma,136,60.0,78,69.0
+Bjï¿½rg,Fredriksen,35,MALE,Norway,BI Residence,68,Diploma,136,60.0,78,69.0
 Trond,Karlsen,37,FEMALE,Norway,Private,45,Bachelors,142,57.0,50,53.5
 Emily,Thompson,39,FEMALE,UK,Private,90,Masters,158,85.0,74,79.5
 Unni,Jacobsen,41,FEMALE,Norway,Private,90,Masters,156,80.0,83,81.5
@@ -46,8 +46,8 @@ Jenny,Kristoffersen,26,FEMALE,Norway,BI Residence,68,High School,124,48.0,62,55.
 Thea,Knutsen,28,MALE,Norway,BI Residence,69,High School,120,45.0,70,57.5
 Dag,Arnesen,30,MALE,Norway,BI Residence,95,Diploma,160,90.0,89,89.5
 Mwanaidi,Ali,32,FEMALE,Somali,BI Residence,82,Bachelors,156,84.0,59,71.5
-Bjørn,Pedersen,21,FEMALE,Norway,BI Residence,70,High School,138,69.0,47,58.0
-Irene,Strømertan,38,FEMALE,Norway,Private,80,Masters,158,84.0,50,67.0
+Bjï¿½rn,Pedersen,21,FEMALE,Norway,BI Residence,70,High School,138,69.0,47,58.0
+Irene,Strï¿½mertan,38,FEMALE,Norway,Private,80,Masters,158,84.0,50,67.0
 Chinedu,Okafor,69,MALE,Nigeria,Private,94,Doctorate,160,87.0,88,87.5
 Marianne,Ruud,42,MALE,Norway,Private,91,Doctorate,158,84.0,82,83.0
 Jens,Lunde,25,MALE,Norway,BI Residence,90,High School,156,81.0,100,90.5
@@ -59,10 +59,10 @@ Caroline,Narocho,23,FEMALE,Norway,BI Residence,90,High School,160,87.0,73,80.0
 Silvia,Berg,25,FEMALE,Norway,BI Residence,81,High School,158,85.0,46,65.5
 Valentino,Ojiambo,27,MALE,Kenya,Sognsvann,85,Bachelors,156,84.0,68,76.0
 Peter,Kubebea,29,MALE,Kenya,Sognsvann,83,Bachelors,156,81.0,67,74.0
-Anna,Müller,31,FEMALE,Germany,Sognsvann,89,Masters,160,87.0,61,74.0
+Anna,Mï¿½ller,31,FEMALE,Germany,Sognsvann,89,Masters,160,87.0,61,74.0
 Lucas,Schmidt,33,MALE,Germany,Sognsvann,98,Masters,160,87.0,86,86.5
 Marie,Dubois,35,FEMALE,France,Sognsvann,69,Bachelors,144,69.0,45,57.0
-Thomas,García,37,MALE,Spain,Private,80,Bachelors,152,78.0,62,70.0
+Thomas,Garcï¿½a,37,MALE,Spain,Private,80,Bachelors,152,78.0,62,70.0
 Emma,Janssen,39,FEMALE,Netherlands,Private,81,Masters,160,80.0,71,75.5
 Maximilan,Martini,50,MALE,Italy,Private,74,Masters,140,63.0,60,61.5
 Clara,Bernard,43,FEMALE,France,Private,80,Bachelors,150,75.0,43,59.0

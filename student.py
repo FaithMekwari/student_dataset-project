@@ -1,6 +1,7 @@
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
+import plotly.express as px 
 
 def student_data():
     df = pd.read_csv('bi.csv', encoding='latin-1')
@@ -59,6 +60,17 @@ def student_data():
     plt.legend()
     plt.grid(True)
     plt.show()
+    
+    #using plotly
+    fig = px.scatter(df, x="studyHOURS", y="Python", title="Study Hours vs Python Score",
+                 labels={"studyHOURS": "Study Hours", "Python": "Python Grade"},
+                 color="gender")   # color by gender (optional)
+    fig.show()
+    fig.write_image("scatter.png")
+    
+    fig = px.histogram(df, x="avg_score", nbins=20, title="Distribution of Average Scores")
+    fig.show()
+    fig.write_image("histogram.png")
 
     # Pearson correlation
     corr = df[['studyHOURS', 'avg_score']].corr(method='pearson')
@@ -66,6 +78,8 @@ def student_data():
     print(corr)
 
     return df
+
+
 
 if __name__ == "__main__":
     student_data()
