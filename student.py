@@ -61,7 +61,7 @@ def student_data():
     plt.grid(True)
     plt.show()
     
-    #using plotly
+    #using plotly to create a scatter and hisogram
     fig = px.scatter(df, x="studyHOURS", y="Python", title="Study Hours vs Python Score",
                  labels={"studyHOURS": "Study Hours", "Python": "Python Grade"},
                  color="gender")   # color by gender (optional)
@@ -72,6 +72,16 @@ def student_data():
     fig.show()
     fig.write_image("histogram.png")
 
+    #pie charts
+    fig = px.pie(df, names='avg_score', title='Grade Distribution')
+    fig.show()
+    fig.write_image("pie.png")
+    
+    #box plots
+    fig = px.box(df, x='avg_score', y='StudyHours', title='Study Hours by Grade')
+    fig.show()
+    fig.write_image("box.png")
+    
     # Pearson correlation
     corr = df[['studyHOURS', 'avg_score']].corr(method='pearson')
     print("Pearson correlation:")
